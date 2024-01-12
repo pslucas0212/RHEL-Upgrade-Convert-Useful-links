@@ -23,6 +23,7 @@
 
 
 ### Converting CentOS or OEL To RHEL
+- [Further simplifying the move to Red Hat Enterprise Linux with convert2RHEL enhancements](https://www.redhat.com/en/blog/move-to-red-hat-enterprise-linux-convert2rhel)
 - [Convert2RHEL FAQ](https://access.redhat.com/articles/5941531)
 - [Convert2RHEL Support Policy](https://access.redhat.com/support/policy/convert2rhel-support)
 - [Bulk Convert2RHEL with Red Hat Satellite 6.10](https://www.redhat.com/en/blog/bulk-convert2rhel-red-hat-satellite-610)
