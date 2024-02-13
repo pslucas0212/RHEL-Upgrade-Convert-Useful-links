@@ -23,6 +23,7 @@
 
 
 ### Converting CentOS or OEL To RHEL
+- [Getting Started with Red Hat Enterprise Linux for Third Party Linux Migration](https://access.redhat.com/articles/7020934)
 - [Further simplifying the move to Red Hat Enterprise Linux with convert2RHEL enhancements](https://www.redhat.com/en/blog/move-to-red-hat-enterprise-linux-convert2rhel)
 - [Convert2RHEL FAQ](https://access.redhat.com/articles/5941531)
 - [Convert2RHEL Support Policy](https://access.redhat.com/support/policy/convert2rhel-support)
