@@ -36,6 +36,7 @@
 - [Converting from CentOS to RHEL with Convert2RHEL and Satellite ](https://www.redhat.com/en/blog/converting-centos-rhel-convert2rhel-and-satellite) - March 2020 Overview
 - [Introduction Convert to RHEL: Convert2RHEL](https://www.youtube.com/watch?v=Git-6uAz1t4) - YouTube - September 2021
 - [Convert from CentOS Linux with Convert2RHEL](https://www.youtube.com/watch?v=xX7P4BzOcNg) - YouTube - October 2021
+- [convert2rhel package installation fails with unable to find match](https://access.redhat.com/solutions/6290431)
 
 #### OEL References for when you are considering converting OEL to RHEL
 - [Release Notes for Oracle Linux 9 - About Oracle Linux 9](https://docs.oracle.com/en/operating-systems/oracle-linux/9/relnotes9.0/ol9-AboutOracleLinux9.html#ol9-whatsnew)
