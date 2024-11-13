@@ -22,6 +22,9 @@
 - [Upgrade Red Hat Enterprise Linux with Red Hat Satellite and Leapp](https://www.redhat.com/rhdc/managed-files/mi-satellite-upgrade-rhel-leapp-detail-f31717pr-202208-en.pdf) - Short pdf guide
 - [Red Hat Enterprise Linux Management with in-place upgrades[(https://www.redhat.com/en/blog/red-hat-enterprise-linux-management-place-upgrades)
 
+### Automating Upgrades with AAP
+- [Upgrade RHEL7.9 to 8.x with leapp using Ansible](https://access.redhat.com/discussions/6921941)
+- [Ansible Leapp Collection - GitHub](https://github.com/redhat-cop/infra.leapp)
 
 ### Converting CentOS or OEL To RHEL
 - [Getting Started with Red Hat Enterprise Linux for Third Party Linux Migration](https://access.redhat.com/articles/7020934)
